@@ -1,0 +1,7 @@
+E:\Project ASCII Generator\ASCII Generator\ASCII Generator\obj\Debug\ASCII Generator.csprojAssemblyReference.cache
+E:\Project ASCII Generator\ASCII Generator\ASCII Generator\obj\Debug\ASCII Generator.csproj.CoreCompileInputs.cache
+E:\Project ASCII Generator\ASCII Generator\ASCII Generator\bin\Debug\ASCII Generator.exe.config
+E:\Project ASCII Generator\ASCII Generator\ASCII Generator\bin\Debug\ASCII Generator.exe
+E:\Project ASCII Generator\ASCII Generator\ASCII Generator\bin\Debug\ASCII Generator.pdb
+E:\Project ASCII Generator\ASCII Generator\ASCII Generator\obj\Debug\ASCII Generator.exe
+E:\Project ASCII Generator\ASCII Generator\ASCII Generator\obj\Debug\ASCII Generator.pdb
